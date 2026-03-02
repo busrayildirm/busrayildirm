@@ -22,21 +22,6 @@
 - 🎤 **Organizer** | DevFest Kayseri'25
 - 🎨 **Design Lead** | GDG on Campus (2023 - 2024)
 
----
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=GITHUB_busrayildirm&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_busrayildirm&show_icons=true&theme=radical" alt="Büşra's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_busrayildirm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with Me:
 
